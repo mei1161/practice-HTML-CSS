@@ -1,0 +1,19 @@
+.box1 {
+  border: 1px solid red;
+  height: 200px;
+}
+
+.box2 {
+  border: 1px solid blue;
+  height: 200px;
+}
+
+.box3 {
+  border: 1px solid yellow;
+  height: 200px;
+}
+
+.box4 {
+  border: 1px solid pink;
+  height: 200px;
+}
